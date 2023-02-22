@@ -1,8 +1,8 @@
 ###########################################################################################
 #
-#        this script determines the environmental limiting factors for shrub fcovr
+#        this script is for creating canopy height model from sfm or lidar point clouds
 #
-#    --- Last updated:  2020.11.13 By Daryl Yang <dediyang@bnl.gov>
+#    --- Last updated:  2023.02.15 By Daryl Yang <dediyang@bnl.gov>
 ###########################################################################################
 
 #******************** close all devices and delete all variables *************************#
